@@ -1,0 +1,21 @@
+# Machine B Handoff Report
+
+- Project name:
+- Git repository:
+- Branch:
+- Handoff commit SHA:
+- Machine A completion date:
+- Machine A environment:
+- Machine A tests passed:
+- Machine A tests failed:
+- Tests blocked/not run:
+- OpenCode model/provider and verified model ID:
+- Known defects:
+- Required native plugins:
+- Required environment variables (names only; never values):
+- Required SDK/JDK/NDK/CMake versions:
+- Supabase/backend setup status:
+- OAuth provider setup status:
+- Machine B tasks:
+- iOS Mac/Xcode tasks:
+- Release blockers:

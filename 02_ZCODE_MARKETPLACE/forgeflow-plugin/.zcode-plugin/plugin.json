@@ -1,0 +1,20 @@
+{
+  "name": "forgeflow-universal-workflow",
+  "version": "1.0.0",
+  "description": "Reusable app discovery, planning, Flutter/backend engineering, two-machine QA handoff and store-readiness workflows.",
+  "author": {
+    "name": "ForgeFlow"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "flutter",
+    "mobile",
+    "product-planning",
+    "testing",
+    "release",
+    "two-machine"
+  ],
+  "commands": "commands",
+  "skills": "skills",
+  "agents": "agents"
+}

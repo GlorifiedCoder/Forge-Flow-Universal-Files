@@ -1,0 +1,21 @@
+{
+  "name": "forgeflow-local-marketplace",
+  "description": "Local reusable ForgeFlow workflows for ZCode.",
+  "plugins": [
+    {
+      "name": "forgeflow-universal-workflow",
+      "source": "./forgeflow-plugin",
+      "description": "App discovery, architecture, implementation, QA and release workflows.",
+      "version": "1.0.0",
+      "category": "development",
+      "tags": [
+        "flutter",
+        "app-development",
+        "planning",
+        "qa",
+        "release"
+      ],
+      "strict": true
+    }
+  ]
+}
